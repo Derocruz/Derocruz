@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedora Front-End
 - 🌱 Estudando Java Script, HTML, CSS e React
-- 😄 Pronouns: ...
+- 😄 Pronouns: ela/dela
 
 <div>
 <a href="https://beacons.ai/Derocruz">
