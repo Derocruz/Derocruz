@@ -6,5 +6,5 @@
 
 <div>
 <a href="https://beacons.ai/Derocruz">
-  <img heigth="180em"  src ="https://github-readme-stats.vercel.app/api?username=Derocruz&show_icons=true&theme=radical"/>
+  <img heigth="180em"  src ="https://github-readme-stats.vercel.app/api?username=Derocruz&show_icons=true&theme=dracula"/>
 <div>
